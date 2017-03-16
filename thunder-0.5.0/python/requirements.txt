@@ -1,0 +1,8 @@
+argparse
+numpy
+scipy
+scikit-learn
+matplotlib
+nose
+rednose
+termcolor

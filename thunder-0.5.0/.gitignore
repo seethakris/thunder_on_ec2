@@ -1,0 +1,21 @@
+$ cat .gitignore
+*.pyc
+.idea
+.idea_modules
+.DS_Store
+thunder.iml
+project/project
+project/target
+target*
+python/dist
+python/build
+python/thunder.egg-info
+python/thunder_python.egg-info
+python/doc/_build
+python/doc/generated
+*.iml
+python/doc/tutorials/*.rst
+python/doc/tutorials/.ipynb*
+python/doc/tutorials/*_files
+python/thunder/lib/*dev*.egg
+
